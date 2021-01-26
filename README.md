@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/aun2ogjporfgw22f?svg=true)](https://ci.appveyor.com/project/vergsparda/ajs-obj-task2)
